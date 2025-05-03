@@ -1,0 +1,10 @@
+# Ignore build/output files
+*.exe
+*.out
+*.o
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore output directory
+output/
